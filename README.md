@@ -30,7 +30,7 @@ Je suis étudiant en Master Data Science, passionné par l'intelligence artifici
 
 - Bases de données SQL (PostgreSQL, MySQL) & NoSQL (MongoDB, Firebase)
 
-###🌐 Web Development & APIs
+### 🌐 Web Development & APIs
 
 - Développement d'APIs avec FastAPI et Flask
 
