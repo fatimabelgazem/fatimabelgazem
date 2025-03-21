@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Fatima Belgazem
 
-## 🎓 About Me
+##  About Me
 
 Je suis étudiant en Master Data Science, passionné par l'intelligence artificielle, l'apprentissage automatique et l'analyse des données. Mon objectif est de développer des solutions innovantes en exploitant les technologies avancées du domaine de la Data Science.
 
 ## 🛠️ Skills & Technologies
 
-### 📊 Data Science & Machine Learning
+###  Data Science & Machine Learning
 
 - Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch)
 
@@ -18,33 +18,30 @@ Je suis étudiant en Master Data Science, passionné par l'intelligence artifici
 
 - Analyse et visualisation des données (Matplotlib, Seaborn, PowerBI)
 
-### 💾 Big Data & Data Engineering
+###  Big Data & Data Engineering
 
 - Apache Spark 
 
 - Apache Hadoop & HDFS
 
-- Kafka 
+- Kafka
+ 
+- Bases de données SQL.
 
-- Elasticsearch 
-
-- Bases de données SQL (PostgreSQL, MySQL) & NoSQL (MongoDB, Firebase)
-
-### 🌐 Web Development & APIs
+### Web Development & APIs
 
 - Développement d'APIs avec FastAPI et Flask
 
 - Intégration avec des frameworks Java Spring Boot
 
-- Développement front-end avec ReactJS
 
-### 📡 DevOps & Network
+###  DevOps & Network
 
 Configuration de serveurs (DNS, Postfix, FTP, Nginx, LDAP, NFS, DHCP)
 
 Déploiement et gestion des applications en production
 
-## 📫 Contact Me
+##  Contact Me
 
 LinkedIn : @fatimabelgazem
 
@@ -52,5 +49,5 @@ GitHub : https://github.com/fatimabelgazem
 
 Email : fatimabelgazem1@gmail.com
 
-Merci de visiter mon profil ! 🚀
+Merci de visiter mon profil ! 
 
