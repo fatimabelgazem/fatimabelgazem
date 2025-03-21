@@ -4,7 +4,7 @@
 
 Je suis étudiant en Master Data Science, passionné par l'intelligence artificielle, l'apprentissage automatique et l'analyse des données. Mon objectif est de développer des solutions innovantes en exploitant les technologies avancées du domaine de la Data Science.
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 ###  Data Science & Machine Learning
 
